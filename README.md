@@ -15,3 +15,5 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linux.svg" alt="Linux" width="40" height="40"/> Linux
 </p>
+
+![snake gif](https://github.com/strdxp/strdxp/blob/output/github-contribution-grid-snake.svg)
