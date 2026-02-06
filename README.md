@@ -1,4 +1,6 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+Mono&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=opa%2C+fala+a%C3%AD)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=10000&pause=1000&color=F7F7F7&width=435&lines=THIS+IS+MY+PEAK!)](https://git.io/typing-svg)
+
+
 
 <p align="right">
   <img src="https://media1.tenor.com/m/axVhGtGySecAAAAC/lain-keyboard.gif" width="200" alt="lain">
