@@ -1,7 +1,7 @@
-🇧🇷
-🇫🇷
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&duration=10000&pause=1000&color=F7F7F7&width=435&lines=THIS+IS+MY+PEAK!)](https://git.io/typing-svg)
 
+🇧🇷<br>
+🇫🇷<br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40"/>
 ```c
 #include <unistd.h>
